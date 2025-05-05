@@ -1,1 +1,2 @@
 creates mylearning.txt file
+planing to learn git
